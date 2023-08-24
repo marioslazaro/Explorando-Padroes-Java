@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 👨🏻‍💻 Explorando Padrões de Projetos na Prática com Java 👨🏻‍💻  </h1>
+<h1 align="center">👨🏻‍💻 Explorando Padrões de Projetos na Prática com Java 👨🏻‍💻</h1>
 
 ## :memo: Descrição
 Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro
